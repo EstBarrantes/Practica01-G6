@@ -1,5 +1,6 @@
-
+/*
 package com.practica01.demo.controller;
+
 
 import com.tienda.domain.Categoria;
 import com.tienda.services.CategoriaService;
@@ -12,6 +13,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
+
+
 
 @Controller //indicarle a la clase que va a ser clase controlador
 @RequestMapping("/categoria")
@@ -59,3 +62,4 @@ public class ArbolController {
         return "/categoria/modifica";
     }
 }
+*/

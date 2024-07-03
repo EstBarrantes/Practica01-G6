@@ -1,4 +1,4 @@
-
+/*
 package com.practica01.demo.domain;
 
 import jakarta.persistence.*;
@@ -21,4 +21,4 @@ public class Arbol implements Serializable{ //Serializable para poder enviar obj
     private boolean activo;
     
     
-}
+}*/

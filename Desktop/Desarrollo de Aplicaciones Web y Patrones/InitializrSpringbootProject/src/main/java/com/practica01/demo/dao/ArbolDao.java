@@ -1,4 +1,4 @@
-
+/*
 package com.practica01.demo.dao;
 
 import com.tienda.domain.Categoria;
@@ -8,4 +8,4 @@ import org.springframework.data.jpa.repository.JpaRepository;
 public interface ArbolDao extends JpaRepository<Categoria,Long>{
     
     
-}
+}*/

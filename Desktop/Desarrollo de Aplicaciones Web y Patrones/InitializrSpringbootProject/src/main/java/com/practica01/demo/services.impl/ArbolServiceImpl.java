@@ -1,6 +1,6 @@
 
 package com.practica01.demo.services;
-
+/*
 import com.tienda.dao.CategoriaDao;
 import com.tienda.domain.Categoria;
 import com.tienda.services.CategoriaService;
@@ -42,3 +42,4 @@ public class ArbolServiceImpl implements CategoriaService{
     public void delete(Categoria categoria) {
         categoriaDao.delete(categoria);}
 }
+*/

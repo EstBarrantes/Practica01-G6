@@ -1,6 +1,6 @@
 
 package com.practica01.demo.services;
-
+/*
 import com.tienda.domain.Categoria;
 import java.util.List;
 
@@ -23,5 +23,5 @@ public interface ArbolService {
     public void delete (Categoria categoria);
 }
 
-
+*/
 
